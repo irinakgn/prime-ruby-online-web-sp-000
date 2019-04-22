@@ -6,6 +6,6 @@ def prime? (n)
   end
  end
 
- true
+ false
 
 end
