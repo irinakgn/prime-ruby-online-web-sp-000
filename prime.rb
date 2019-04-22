@@ -6,7 +6,7 @@ def prime? (n)
   end
  end
 
- flase
+ ffalse
 end
 
 def is_prime2 n
